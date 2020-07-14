@@ -1,1 +1,1 @@
-# event_tracking_system_docs
+# hosts the documents for the project event_tracking_system
